@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karen Ono</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a NodeJs project for Humana**
+- 🔭 I’m currently working on developing my skills as a **.NET** and **Angular** developer
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning more about **Data Structures**
 
 - 📫 How to reach me **onokarent@gmail.com**
 
